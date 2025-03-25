@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Praveen B R
-- 🌱 I’m currently studying at IIITDM Kancheepuram
+- 🌱 I’m currently studying University of Windsor
 - 👀 I’m interested in Machine Learning and Data Science
 - 📫 Reach me at praveenbr2002@gmail.com
 
